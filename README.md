@@ -55,10 +55,10 @@ HTML website that lets users post items dynamically.
 
 ## Authors
 
-*  Nicolas Dela Cruz
-*  github.com/NickoDelaCruz
-*  Alexander Ficklin
-*  
+*  https://github.com/NickoDelaCruz
+*  https://github.com/AlexFicklin
+*  https://github.com/Ivanramos148
+*  https://github.com/FrankNgo
 
 
 ## License
